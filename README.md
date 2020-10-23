@@ -1,1 +1,2 @@
-it's an python app that take your name date of birth and give you your age 
+# Age Calculator
+It's a simple python application which takes your name and birthdate then displays your current age.
